@@ -4,13 +4,13 @@
     "name" : "Brian Mod",
     "author" : "RVNGRL",
     "desc" : "Brian",
-    "coverURL" : "/mods/mod-alpha/cover.png"
+    "coverURL" : "/mods/brian-mod/cover.png"
   },
   {
     "id" : "test-mod",
     "name" : "Test Mod",
     "author" : "RVNGRL",
     "desc" : "Just a Test Mod, Used to test database capabilities",
-    "coverURL" : "/mods/mod-alpha/cover.gif"
+    "coverURL" : "/mods/test-mod/cover.gif"
   }
 ]
