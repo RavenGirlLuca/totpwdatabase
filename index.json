@@ -7,6 +7,69 @@
     "coverURL" : "/mods/brian-mod/cover.png"
   },
   {
+    "id" : "brian-mod1",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod2",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod3",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod4",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod5",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod6",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod7",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod8",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
+    "id" : "brian-mod9",
+    "name" : "Brian Mod",
+    "author" : "RVNGRL",
+    "desc" : "Brian",
+    "coverURL" : "/mods/brian-mod/cover.png"
+  },
+  {
     "id" : "test-mod",
     "name" : "Test Mod",
     "author" : "RVNGRL",
